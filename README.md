@@ -1,7 +1,7 @@
 Hi, I'm Mukesh! 👋
 
 # 💫 About Me:
-🔭 I’m Aspiring Frontend Developer.<br>👯 I’m looking for Internship Opportunities as Front-end Developer.<br>🤝 I’m Skilled at Frontend Technologies like ,ReactJs, Redux ,JavaScript <br>,Tailwind CSS, CSS3 , HTML5.<br>🌱 I’m currently learning Backend - ExpressJs , NodeJs  and DataBases,<br>to complete The Fullstack MERN.<br>⚡Built Great Projects Using ReactJs Library.<br>⚡ Fun fact I'm fast Learner and Tech Enthusiast.<br><br><br>Mukesh_95_
+🔭 I’m Frontend Developer.<br>🤝 I’m Skilled at Frontend Technologies like ,ReactJs, Redux ,JavaScript <br>,Tailwind CSS, CSS3 , HTML5.<br>🌱 I’m currently learning Backend - ExpressJs , NodeJs  and DataBases,<br>to complete The Fullstack MERN.<br>⚡Built Great Projects Using ReactJs Library.<br>⚡ Fun fact I'm fast Learner and Tech Enthusiast.<br><br><br>Mukesh_95_
 
 ![1yft](https://github.com/Mukesh39/Mukesh39/assets/102470215/ad1f4ad7-4b75-4366-b17f-dbc93b03950b)
 
