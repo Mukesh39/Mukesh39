@@ -1,7 +1,13 @@
 Hi, I'm Mukesh! 👋
 
 # 💫 About Me:
-🔭 I’m Frontend Developer(MERN).<br>🤝 I’m Skilled at Frontend Technologies like ,ReactJs, Redux ,JavaScript <br>,Tailwind CSS, CSS3 , HTML5.<br>🌱 I’m currently learning Backend - ExpressJs , NodeJs  and DataBases, also completed some Project in Backend as well <br>to complete The Fullstack MERN.<br>⚡Built Great Projects Using ReactJs Library. .<br>⚡ Fun fact I'm fast Learner and Tech Enthusiast.<br><br><br>Mukesh_95_
+👋 Hi there! I'm Mukesh Kumar, a Frontend Developer (MERN).<br>
+🔭 I'm skilled in frontend technologies like ReactJS, Redux, JavaScript, Tailwind CSS, CSS3, and HTML5.<br>
+🌱 I've also gained experience in backend technologies such as ExpressJS, NodeJS, MongoDB, and SQL databases, successfully completing full-stack(Backend and Frontend) projects while ensuring application security in the MERN stack.<br>
+⚡ I've built impactful projects using the ReactJS library.<br>
+🔭 I am available to commit over 40 to 50 hours per week and operate in the IST time zone, ensuring more than 6 to 8 hours of overlapping time daily. 🏋️‍♀️
+⚡ Fun fact: I'm a fast learner and a tech enthusiast.
+⚡ You can reach me by Email: muk.786422@gmail.com directly  ReactOut to me  with My portfolio : https://portfolio-mukesh-kumar.netlify.app 
 
 ![1yft](https://github.com/Mukesh39/Mukesh39/assets/102470215/ad1f4ad7-4b75-4366-b17f-dbc93b03950b)
 
