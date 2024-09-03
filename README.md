@@ -7,7 +7,10 @@ Hi, I'm Mukesh! 👋
 ⚡ I've built impactful projects using the ReactJS library.<br>
 🔭 I am available to commit over 40 to 50 hours per week and operate in the IST time zone, ensuring more than 6 to 8 hours of overlapping time daily. 🏋️‍♀️
 ⚡ Fun fact: I'm a fast learner and a tech enthusiast.
-⚡ You can reach me by Email: muk.786422@gmail.com directly  ReactOut to me  with My portfolio : https://portfolio-mukesh-kumar.netlify.app 
+⚡ You can reach me by Email: muk.786422@gmail.com directly  ReactOut to me  with My portfolio : https://portfolio-mukesh-kumar.netlify.app
+
+
+Apart from my professional journey, I am a learner📝 and enthusiastic to learn new tech. I have created 15+ mini & major projects💼 on Reactjs and other technologies. Also deployed and having live-hosted projects📽, checkout out my GitHub Profile📒.
 
 ![1yft](https://github.com/Mukesh39/Mukesh39/assets/102470215/ad1f4ad7-4b75-4366-b17f-dbc93b03950b)
 
