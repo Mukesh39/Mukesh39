@@ -1,29 +1,32 @@
 Hi, I'm Mukesh! 👋
 
-# 💫 About Me:
-👋 Hi there! I'm Mukesh Kumar, a Frontend Developer (MERN).<br>
-🔭 I'm skilled in frontend technologies like ReactJS, Redux, JavaScript, Tailwind CSS, CSS3, and HTML5.<br>
-🌱 I've also gained experience in backend technologies such as ExpressJS, NodeJS, MongoDB, and SQL databases, successfully completing full-stack(Backend and Frontend) projects while ensuring application security in the MERN stack.<br>
-⚡ I've built impactful projects using the ReactJS library.<br>
-🔭 I am available to commit over 40 to 50 hours per week and operate in the IST time zone, ensuring more than 6 to 8 hours of overlapping time daily. 🏋️‍♀️
-⚡ Fun fact: I'm a fast learner and a tech enthusiast.
-⚡ You can reach me by Email: muk.786422@gmail.com directly  ReactOut to me  with My portfolio : https://portfolio-mukesh-kumar.netlify.app
+# About Me:
+👋 Hi, I'm Mukesh Kumar, a Data Analyst with  a deep passion for data-driven decision-making.
+
+🔹 I started my career as a Frontend Developer, building interactive web applications using React.js, JavaScript, Redux, and Tailwind CSS. Over time, I developed a strong interest in data analytics, business intelligence, and storytelling through data, leading me to transition into the field of Data Analysis.
+
+🔍 Currently, I specialize in data visualization, reporting, and insights extraction, leveraging tools like:
+#### ✅ Power BI (Desktop, Power Query, DAX)
+#### ✅ SQL (MySQL, SQL Server)
+#### ✅ Tableau & Data Storytelling
+#### ✅ Advanced Excel (Pivot Tables, Automation)
 
 
-Apart from my professional journey, I am a learner📝 and enthusiastic to learn new tech. I have created 15+ mini & major projects💼 on Reactjs and other technologies. Also deployed and having live-hosted projects📽, checkout out my GitHub Profile📒.
+💡 I have worked on end-to-end data analysis projects, helping businesses extract insights, automate workflows, and make data-driven decisions. My ability to blend tech and analytics gives me a unique perspective in solving complex problems efficiently.
 
-![1yft](https://github.com/Mukesh39/Mukesh39/assets/102470215/ad1f4ad7-4b75-4366-b17f-dbc93b03950b)
+📌 I am available to commit 40–50 hours per week, with a daily overlap of 6–8 hours in IST.
+📩 You can reach me via Email: muk.786422@gmail.com or check out my portfolio: portfolio-mukesh-kumar.netlify.app.
+
+🚀 I'm eager to collaborate on real-world data challenges and connect with professionals in the analytics domain!
+
+Apart from my professional journey, I am a learner📝 and enthusiastic to learn new tech.
+
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kumarmukesh95) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Mukesh_95_) 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=Mukesh39&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mukesh39&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mukesh39&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=Mukesh_95_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
