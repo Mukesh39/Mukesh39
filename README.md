@@ -15,8 +15,7 @@ Hi, I'm Mukesh! 👋
 💡 I have worked on end-to-end data analysis projects, helping businesses extract insights, automate workflows, and make data-driven decisions. My ability to blend tech and analytics gives me a unique perspective in solving complex problems efficiently.
 
 📌 I am available to commit 40–50 hours per week, with a daily overlap of 6–8 hours in IST.
-📩 You can reach me via Email: muk.786422@gmail.com or check out my portfolio: portfolio-mukesh-kumar.netlify.app.
-
+📩 You can reach me via Email: muk.786422@gmail.com or LinkedIn : https://www.linkedin.com/in/kumarmukesh95/
 🚀 I'm eager to collaborate on real-world data challenges and connect with professionals in the analytics domain!
 
 Apart from my professional journey, I am a learner📝 and enthusiastic to learn new tech.
