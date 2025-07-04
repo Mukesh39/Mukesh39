@@ -26,8 +26,7 @@ Apart from my professional journey, I am a learner📝 and enthusiastic to learn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kumarmukesh95) 
 
 
-## 🐦 Latest Tweet
-(https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
