@@ -23,12 +23,11 @@ Apart from my professional journey, I am a learner📝 and enthusiastic to learn
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kumarmukesh95) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Mukesh_95_) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kumarmukesh95) 
 
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Mukesh_95_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+(https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
